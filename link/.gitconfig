@@ -1,8 +1,8 @@
 [user]
-		name = Anton Niklasson
-		email = niklasson.anton@gmail.com
+		name = Jonas Skog
+		email = jonas.skog.andersen@gmail.com
 [github]
-		user = AntonNiklasson
+		user = jonsk197
 [core]
 		autocrlf = input
 		whitespace = fix,space-before-tab,tab-in-indent,trailing-space
